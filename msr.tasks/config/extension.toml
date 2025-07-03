@@ -1,0 +1,12 @@
+[package]
+version = "0.1.0"
+
+title = "MSR Project Tasks"
+description = "Suite of environments for the MSR project."
+repository = "..."
+keywords = ["robotics", "rl", "msr"]
+category = "robotics"
+
+
+[[python.module]]
+name = "msr_tasks"

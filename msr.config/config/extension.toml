@@ -1,0 +1,12 @@
+[package]
+version = "0.1.0"
+
+title = "MSR Project config"
+description = "Suite of config for the MSR project."
+repository = "..."
+keywords = ["robotics", "rl", "msr"]
+category = "robotics"
+
+
+[[python.module]]
+name = "msr_config"

@@ -1,0 +1,9 @@
+Metadata-Version: 2.4
+Name: msr-config
+Version: 0.1.0
+Summary: RL config for the MSR project.
+Author: wl
+Requires-Python: >=3.10
+Dynamic: author
+Dynamic: requires-python
+Dynamic: summary

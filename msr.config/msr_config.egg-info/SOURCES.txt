@@ -1,0 +1,15 @@
+pyproject.toml
+setup.py
+./msr_config/__init__.py
+./msr_config/actions/__init__.py
+./msr_config/actions/actions_cfg.py
+./msr_config/actions/task_space_actions.py
+./msr_config/controllers/__init__.py
+./msr_config/controllers/differential_ik_with_soft_rcm.py
+./msr_config/controllers/differential_ik_with_soft_rcm_cfg.py
+./msr_config/robot/__init__.py
+./msr_config/robot/msr.py
+msr_config.egg-info/PKG-INFO
+msr_config.egg-info/SOURCES.txt
+msr_config.egg-info/dependency_links.txt
+msr_config.egg-info/top_level.txt
